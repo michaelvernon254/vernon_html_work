@@ -24,7 +24,9 @@ body
 
 
 
-background-color:tomato;
+background-image:url(resources/ironman2.jpg);
+	height:100%;
+	width:100%;
 }
 .btn
 {
