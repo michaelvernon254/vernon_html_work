@@ -21,7 +21,7 @@
 }
 body
 {
-background-color:blue;
+background:linear-gradient(to left,#66ffcc,#ff9933,#ff1a1a);
 }
 .btn
 {
